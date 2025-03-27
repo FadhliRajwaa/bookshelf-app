@@ -5,7 +5,15 @@
 
 A modern web application for managing your personal book collection with beautiful UI and smooth interactions.
 
-![App Screenshot](https://via.placeholder.com/800x500.png?text=Bookshelf+App+Preview)
+---
+
+## ✨ Preview
+
+| Desktop Version | Mobile Version |
+|-----------------|----------------|
+| ![Desktop Preview](dekstop.jpg) | ![Mobile Preview](mobile.jpg) |
+
+---
 
 ## 🚀 Live Demo
 
